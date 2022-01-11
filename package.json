@@ -1,0 +1,15 @@
+{
+  "name": "apollo-example",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "dev": "func host start",
+    "test": "jest"
+  },
+  "author": "",
+  "dependencies": {
+    "apollo-server-azure-functions": "^3.6.1",
+    "graphql": "^16.2.0",
+    "jest": "^27.4.7"
+  }
+}
